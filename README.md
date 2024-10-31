@@ -1,6 +1,6 @@
 # Introductory project for CoolRunner-II CPLD Starter Board
 
-> It is TCL version of intro project [../crnr-ii-intro/](../crnr-ii-intro/) - only source files
+> It is TCL version of intro project [../crnr-ii-intro/](https://github.com/hpaluch/crnr-ii-intro) - only source files
 > are hosted in this directory. Whole project and work files are generated from attached
 > [crnr-ii-intro.tcl](crnr-ii-intro.tcl) script.
 >
